@@ -1,5 +1,7 @@
 # PopX
 
+# Deployed URL: https://educase-react-1o.netlify.app
+
 A modern React application built with Vite, featuring user authentication and profile management.
 
 ## Quick Start
